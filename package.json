@@ -1,0 +1,14 @@
+{
+  "name": "chatserver",
+  "version": "1.0.0",
+  "description": "Simple Chat Server example",
+  "main": "server.js",
+  "scripts": {
+    "dev": "node chatServer.js"
+  },
+  "author": {
+    "name": "Ian Dunn",
+    "email": "iandunn@iandunn.net"
+  },
+  "license": "ISC"
+}
